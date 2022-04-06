@@ -1,0 +1,3 @@
+pip install phonenumbers
+pip install colorama
+pip install python -y
